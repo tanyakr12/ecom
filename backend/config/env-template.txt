@@ -1,0 +1,10 @@
+PORT = {enter port number you want to use}
+DB_URI = {mongodb uri}
+JWT_SECRET = {enter jwt secret}
+JWT_EXPIRE = {enter jwt expire time}
+COOKIE_EXPIRE = {enter cookie expire time}
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = 465
+SMTP_SERVICE = "gmail"
+SMTP_MAIL = {enter your email here}
+SMTP_PASSWORD = {enter your app password here}
